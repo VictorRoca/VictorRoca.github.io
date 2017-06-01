@@ -1,0 +1,85 @@
+h1 {
+    color: navy;
+    margin-left: 300px;
+	text-decoration: underline;
+	font-size: 40px;
+	font-style: italic;
+}
+h2 {
+	color: navy;
+    margin-left: 200px;
+	font-size: 16px;
+}
+h3 {
+    color: navy;
+    margin-left: 300px;
+	text-decoration: underline;
+	font-size: 40px;
+	font-style: italic;
+}	
+h4 {
+    color: navy;
+    margin-left: 300px;
+	text-decoration: underline;
+	font-size: 40px;
+	font-style: italic;
+}
+p {
+	color: navy;
+	font-size: 16px;
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: justify;
+}
+ol {
+	color: navy;
+    margin-left: 200px;
+	height: 100px;
+    width: 30%;
+	background-color: rgb(255,165,100);
+	padding: 20px;
+    border: 5px solid green;
+	font-size: 18px;
+	font-weight: bold;
+}
+ul {
+	color: navy;
+    margin-left: 200px;
+	height: 100px;
+    width: 50%;
+	background-color: rgb(255,165,100);
+	padding: 20px;
+    border: 5px solid green;
+	font-size: 18px;
+	font-weight: bold;
+}
+dl {
+	color: navy;
+    margin-left: 200px;
+	height: 170px;
+    width: 50%;
+	background-color: rgb(255,165,100);
+	padding: 20px;
+    border: 5px solid green;
+	font-size: 18px;
+	font-weight: bold;
+}
+img {
+	margin-left: 190px;
+}
+table {
+	color: navy;
+    margin-left: 200px;
+	height: 170px;
+    width: 50%;
+	background-color: rgb(255,165,100);
+	padding: 20px;
+    border: 5px solid green;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+}
+body {
+    background-color: lightblue;
+	margin-left: 200px;
+}
