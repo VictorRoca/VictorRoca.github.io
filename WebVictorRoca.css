@@ -1,3 +1,8 @@
+.wrapper{
+    width: 1700px;
+    margin: 0 auto;
+    position: relative;
+}
 h1 {
     color: navy;
     margin-left: 300px;
@@ -16,6 +21,7 @@ h3 {
 	text-decoration: underline;
 	font-size: 40px;
 	font-style: italic;
+	position: center;
 }	
 h4 {
     color: navy;
@@ -82,4 +88,14 @@ table {
 body {
     background-color: lightblue;
 	margin-left: 200px;
+}
+header nav ul li{
+    float: left;
+    margin-left: 50px;
+}
+video {
+    margin-left: 400px;
+	height: 170px;
+    width: 25%;
+	padding: 20px;
 }
